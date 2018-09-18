@@ -1,2 +1,2 @@
 # demo
-python像js传递参数
+python向js传递参数
