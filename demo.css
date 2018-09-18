@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.links {
+    stroke: #999;
+    stroke-opacity: 0.6;
+}
